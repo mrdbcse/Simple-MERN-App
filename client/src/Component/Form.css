@@ -1,0 +1,18 @@
+.form-card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9);
+  transition: 0.3s;
+}
+.form-heading {
+  margin-bottom: 50px;
+}
+.button {
+  border: none;
+  cursor: pointer;
+  transition: 0.5s all ease-in-out;
+}
+.button:hover {
+  background-color: green;
+}
